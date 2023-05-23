@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Putatoe/static/css/main.932ca81a.css",
+    "main.js": "/Putatoe/static/js/main.6a837fbd.js",
+    "index.html": "/Putatoe/index.html",
+    "main.932ca81a.css.map": "/Putatoe/static/css/main.932ca81a.css.map",
+    "main.6a837fbd.js.map": "/Putatoe/static/js/main.6a837fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.932ca81a.css",
+    "static/js/main.6a837fbd.js"
+  ]
+}
